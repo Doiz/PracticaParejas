@@ -4,6 +4,7 @@ public holaMundo{
   System.out.println("Hola mundo que tal!");
   System.out.println("Hola mundo que tal!");
   System.out.println("Hola mundo que tal! xD");
+  System.out.println("Hola mundo que tal! D:");
   
    }
 }
